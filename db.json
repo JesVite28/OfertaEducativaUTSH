@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": "9d78",
+      "matricula": "20230034",
+      "nombre": "Adrian",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-02-02",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "458c",
+      "matricula": "20230034",
+      "nombre": "Adrian de Jesus Vite Espinosa",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-02-02",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "378c",
+      "matricula": "205455124",
+      "nombre": "Robert",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-02-10",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "3c36",
+      "matricula": "20230034",
+      "nombre": "Adrian",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-06",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "75dd",
+      "matricula": "20230034",
+      "nombre": "Adrian",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-06",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "3b63",
+      "matricula": "20230034",
+      "nombre": "Juan",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-06",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "37e5",
+      "matricula": "20230034",
+      "nombre": "Alberto",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-10",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "1346",
+      "matricula": "20230034",
+      "nombre": "Alberto",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-10",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "9576",
+      "matricula": "20230034",
+      "nombre": "Adrian",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-03",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "8e63",
+      "matricula": "20230035",
+      "nombre": "Ariana",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-20",
+      "sexo": "Masculino"
+    },
+    {
+      "id": "02a7",
+      "matricula": "12",
+      "nombre": "Gil",
+      "carrera": "Desarrollo de Software Multiplataforma",
+      "fechaNacimiento": "2025-03-12",
+      "sexo": "Masculino"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.navbar-img{
+    width: 15rem;
+    margin-right: 10px;
+}
+.navbar-color{
+    background-color: #00A352;
+}
+.input-buscar{
+    width: 300px;
+    height: 45px;
+}
+.dropdown-item:active, .dropdown-item:focus {
+    background-color: #00A352 !important;
+    color: white !important;
+  }

@@ -1,0 +1,14 @@
+.container-sesion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-header-sesion{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.container-principal{
+    padding: 5rem;
+}
