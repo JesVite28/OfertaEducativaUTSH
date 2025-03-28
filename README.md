@@ -1,12 +1,21 @@
-# React + Vite
+# Universidad Tecnológica de la Sierra Hidalguense
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Aplicaciones Web para I4.0
 
-Currently, two official plugins are available:
+## Proyecto: Oferta Educativa UTSH
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Nombre del alumno: 
+### - Adrian de Jesus Vite Espinosa
 
-## Expanding the ESLint configuration
+### Carrera: TSU. En tecnologías de la información área, Desarrollo de software multiplataforma.
+### Cuatrimestre: 5to.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contenido:
+### Inicio de sesión que permite visualizar una oferta educativa y visualizar un listado de estudiantes
+
+
+## Tecnologias utilizadas
+### - javascript: realiza las funciones de las apps
+### - css: Controla el diseño.
+### - react: framework para la creación de la app
+### - html: almacen de la base de datos
